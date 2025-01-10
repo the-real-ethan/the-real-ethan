@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is my data science portfolio that I'm working on growing to show my skills!
 <!--
 **the-real-ethan/the-real-ethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
