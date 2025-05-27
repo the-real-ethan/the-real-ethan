@@ -41,7 +41,7 @@ This project uses real NBA game data to test the "Hot Hand" hypothesis — the i
 - Discovered that as a whole, nba players did not exhibit hot-hand effects
 - Emphasized the importance of sample size and random chance in interpreting sports data
 
-🔗 [View Full Notebook](./Does_the_Hot_Hand_Exist.ipynb)
+🔗 [View Full Notebook](./Does_the_Hot-Hand_Exist.ipynb)
 
 ---
 
