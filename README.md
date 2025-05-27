@@ -42,20 +42,6 @@ This project uses real NBA game data to test the "Hot Hand" hypothesis — the i
 - Emphasized the importance of sample size and random chance in interpreting sports data
 
 🔗 [View Full Notebook](./Does_the_Hot-Hand_Exist.ipynb)
-
----
-
-## 🖼️ Coming Soon: Image Classifier  
-**Tags**: `deep-learning`, `cnn`, `computer-vision`, `image-classification`
-
-### 🔧 In Progress
-I'm currently building an image classification model using Convolutional Neural Networks (CNNs) to recognize and label objects across a custom dataset. This project will demonstrate my skills in:
-- Image preprocessing and augmentation
-- Building CNN architectures in TensorFlow/PyTorch
-- Evaluating accuracy, precision, and class balance in multi-class setups
-
----
-
 ## 📌 More Info
 Feel free to explore each project notebook. If you'd like to collaborate or have questions, reach out!
 
