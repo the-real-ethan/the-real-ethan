@@ -57,7 +57,7 @@ I'm currently building an image classification model using Convolutional Neural 
 ---
 
 ## 📌 More Info
-Feel free to explore each project folder for notebooks, data summaries, and model outputs. If you'd like to collaborate or have questions, reach out!
+Feel free to explore each project notebook. If you'd like to collaborate or have questions, reach out!
 
 📫 **Contact**: [jem200008@utdallas.edu]
 
