@@ -69,7 +69,7 @@ This project models the probability of an NBA team winning a game based on team 
   - Home advantage and team ratings remain strong predictors
 - Documented areas for future improvement: injury severity weighting, non-linear modeling, and adjustments for end-of-season anomalies
 
-🔗 [View Full Notebook](./NBA_Game_Prediction.ipynb)
+🔗 [View Full Notebook](./NBA_game_prediction.ipynb)
 ## 📌 More Info
 Feel free to explore each project notebook. If you'd like to collaborate or have questions, reach out!
 
