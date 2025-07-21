@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science/Analytics Portfolio
 
 Welcome to my project portfolio! Below are a few data-driven projects I’ve worked on that apply machine learning and statistical analysis to real-world problems — from ecosystem health to basketball performance. Each project emphasizes thoughtful modeling, rigorous evaluation, and practical impact.
 
